@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{font-family: 'Anton', sans-serif;}
+h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+/*
+.cover {
+    height: 200px;
+    background-image: url();
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+*/
+.carrito img{
+    border-bottom-width: 30px;
+    border-block-width: 40px;
+    height: 100px;
+    width: 100px;
+    /*border-radius: 50%;
+    "./static/26293.jpg"*/
+}
+.footer img{
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+    /*border-radius: 50%;*/
+}
